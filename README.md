@@ -6,7 +6,7 @@
 
 A modern, responsive website showcasing research initiatives, collaborative projects, and community partnerships at the University of Michigan-Flint.
 
-[Live Website](#) • [Report Bug](#) • [Request Feature](#)
+[Live Website](https://umflint-ideas-hub.netlify.app) • [Report Bug](#) • [Request Feature](#) 
 
 </div>
 
