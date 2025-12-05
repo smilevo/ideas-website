@@ -266,10 +266,6 @@ bun run build
 - 🎯 **Large Typography** - Emphasis on readability
 - 🔄 **Hover Effects** - Interactive user experience
 
-### Inspiration
-
-The design draws inspiration from modern web trends, particularly the playful aesthetic of [michaleisik.com](https://www.michaleisik.com/), while maintaining professional credibility for an academic institution.
-
 ---
 
 ## 🤝 Contributing
