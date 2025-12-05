@@ -43,7 +43,7 @@ export default function Header() {
           {/* Right Side */}
           <div className="flex items-center gap-4">
             <Link
-              href="#"
+              href="/contact-us"
               className="hidden md:inline-block bg-[#FFCB05] text-[#0d2747] px-6 py-2.5 font-bold hover:bg-[#FFD54F] transition-all hover:scale-105 shadow-md"
             >
               Get in touch
