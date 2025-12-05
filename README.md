@@ -314,7 +314,6 @@ This project is part of the University of Michigan-Flint and is proprietary. All
 
 ## 🙏 Acknowledgments
 
-- **Design & Development**: Originally created in [SAME.dev](https://same.dev)
 - **University of Michigan-Flint**: For supporting data science initiatives
 - **Advisory Board**: For guidance and leadership
 - **Community Partners**: For collaboration on research projects
