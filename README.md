@@ -32,7 +32,7 @@ A modern, responsive website showcasing research initiatives, collaborative proj
 
 The **IDEAS Hub** (Institute of Data Engineering, Analytics, and Science) website serves as the digital gateway for UM-Flint's data science initiatives. This platform connects faculty, students, industry partners, and community organizations to collaborate on data-driven solutions that create meaningful impact.
 
-The website features a modern, playful design inspired by contemporary web aesthetics, utilizing bold typography, tilted image frames, and vibrant yellow accent colors to create an engaging user experience.
+The website features a modern, playful design, utilizing bold typography, tilted image frames, and vibrant yellow accent colors to create an engaging user experience.
 
 ---
 
