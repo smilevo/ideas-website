@@ -51,10 +51,10 @@ export default function ContactUsPage() {
                 </div>
                 <h3 className="font-black text-[#0d2747] text-xl mb-3">Phone</h3>
                 <Link
-                  href="tel:810-762-3300"
+                  href="tel:(810) 762-5992"
                   className="text-gray-700 hover:text-[#FFCB05] font-semibold"
                 >
-                  810-762-3300
+                  (810)  762-5992
                 </Link>
               </div>
 
@@ -64,8 +64,8 @@ export default function ContactUsPage() {
                 </div>
                 <h3 className="font-black text-[#0d2747] text-xl mb-3">Location</h3>
                 <p className="text-gray-700">
-                  303 E. Kearsley Street<br />
-                  Flint, MI 48502
+                  402D Murchie Science Building<br />
+                  Flint, MI 48502-1950
                 </p>
               </div>
             </div>
